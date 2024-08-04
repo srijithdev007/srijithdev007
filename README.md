@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreejith Devanandhan</h1>
-<h3 align="center">A passionate developer Open to contribute and interested in solving real world problems problems</h3>
+<h3 align="center">A passionate developer Open to contribute and interested in solving real world problems</h3>
 
 - 🌱 I’m currently learning **helm chart, kubernetes**
 
